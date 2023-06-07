@@ -8,7 +8,7 @@
 		<version>2.6.5</version>
 		<relativePath/> <!-- lookup parent from repository -->
 	</parent>
-	<groupId>io.geancarloslc.microservicos</groupId>
+	<groupId>io.github.geancarloslc</groupId>
 	<artifactId>clientes</artifactId>
 	<version>0.0.1-SNAPSHOT</version>
 	<name>clientes</name>
